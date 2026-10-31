@@ -54,6 +54,10 @@ The app is for parents and teachers, not for children, and children do not have 
 
 If this policy changes, the date at the top changes, and the school will tell families in the app or by email.
 
+## Child safety
+
+Our standards against child sexual abuse and exploitation, and how to report a concern, are on the Wishflower child safety page: https://simeongbolo.github.io/wishflower-privacy/child-safety.html
+
 ## Contact
 
 Wishflower Playschool, San Diego
