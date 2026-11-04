@@ -13,6 +13,7 @@ Only families the school has invited, and the school's own teachers. There is no
 - **Your name and email address**, so the school knows who is in the app and so you can sign in and reset your password.
 - **Photos and videos** the teacher shares, with the day they belong to and any caption.
 - **Notes** you leave for the teacher on a day.
+- **Notices and documents** the school posts for families — a note, sometimes with a flyer, and files like the handbook or the snack menu — and any reply you leave on a notice.
 - **Your choices**, such as whether you asked to be told when there is something new.
 - **A record that your phone has signed in**, so the school can see which families are using the app and remove access if needed.
 
@@ -39,7 +40,7 @@ Everything is stored in the United States on Amazon Web Services, in private sto
 
 - You can turn notifications on or off at any time under *Your account*.
 - You can sign out at any time, which removes your phone from the app.
-- You can delete a note you left.
+- You can delete a note or a reply you left.
 - To remove your family from the app entirely, or to have your data deleted, ask the school. Access is removed the same day.
 
 ## Keeping photos
